@@ -1,8 +1,8 @@
-# Microsoft Fabric Learning Projects
+Microsoft Fabric Learning Projects
 
 Two beginner end-to-end projects built in Microsoft Fabric while preparing for the DP-600 exam.
 
-## Project 1: Public Holidays Analytics (Lakehouse)
+Project 1: Public Holidays Analytics (Lakehouse)
 
 **Goal:** Turn raw public holiday data into a report showing holidays by country and year.
 
@@ -36,7 +36,7 @@ Two beginner end-to-end projects built in Microsoft Fabric while preparing for t
 
 Lakehouse, Warehouse, Notebook, Data pipeline, Semantic model, Power BI report.
 
-## Key Concepts Practised
+Key Concepts Practised
 
 - Medallion architecture (raw, silver, gold)
 - PySpark transformations and Delta tables
@@ -44,7 +44,7 @@ Lakehouse, Warehouse, Notebook, Data pipeline, Semantic model, Power BI report.
 - Star schema, relationships and DAX measures
 - Direct Lake storage mode
 
-## Repository Contents
+Repository Contents
 
 - `Second_Notebook.ipynb`: PySpark notebook for Project 1
 - `images/`: screenshots of the report, pipeline and model (optional)
